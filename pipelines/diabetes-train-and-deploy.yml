@@ -1,5 +1,5 @@
 variables:
-  ml-ws-connection: 'azmMLOps-azmldemows' # Workspace Service Connection name
+  ml-ws-connection: 'MLOps-azmldemows' # Workspace Service Connection name
   ml-ws: 'MLOps-tuto-ws' # AML Workspace name
   ml-rg: 'MLOps-tuto-rg' # AML resource Group name
   ml-ct: 'cpu-cluster-1' # AML Compute cluster name
